@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on Website Building
 - 🤔 I’m looking for help with Back-end Coding
 - 💬 Ask me about Web Designing and Coding
-- 📫 How to reach me: Follow me on Twitter @arifali2904
+- 📫 Follow me on Twitter @arifali2904
