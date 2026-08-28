@@ -13,12 +13,12 @@ Full-stack software developer building secure web platforms, backend services, o
 
 | Project | What it demonstrates | Core technologies |
 |---|---|---|
-| [AI-First CRM](https://github.com/Er-Arif/Aivoa.ai-Project) | Natural-language HCP interaction logging with five LangGraph tools, validated AI output, persistence, and audit-friendly responses | React, FastAPI, LangGraph, Groq, PostgreSQL, Docker |
-| [Software Distribution Platform](https://github.com/Er-Arif/Software-Distribution-website) | Software sales, licensing, signed updates, payments, device activation, admin operations, and background jobs | Next.js, FastAPI, PostgreSQL, Redis, Celery, MinIO |
-| [Auth Service](https://github.com/Er-Arif/Auth-Service) | Reusable multi-application OTP authentication with hashed refresh tokens, delivery adapters, tests, CI, and audit logging | Node.js, Express, Prisma, PostgreSQL, Zod, Docker |
-| [OnePass Password Manager](https://github.com/Er-Arif/Password-Manager) | Local-first encrypted vault and browser-extension workflows using client-side cryptography | Next.js, TypeScript, Web Crypto, Manifest V3 |
-| [Restaurant POS](https://github.com/Er-Arif/Restaurant-POS-application) | Windows-first offline POS with roles, licensing, receipts, backup/restore, and packaging | Python, PySide6, SQLite, SQLAlchemy, PyInstaller |
-| [Ride Booking Platform](https://github.com/Er-Arif/Cab-Booking-Service) | Hyperlocal customer, driver, admin, dispatch, fare, and operations workflows | TypeScript, Node.js, Next.js, Flutter, PostgreSQL, Socket.IO |
+| [AI-First CRM](https://github.com/Er-Arif/ai-crm-copilot) | Natural-language HCP interaction logging with five LangGraph tools, validated AI output, persistence, and audit-friendly responses | React, FastAPI, LangGraph, Groq, PostgreSQL, Docker |
+| [Software Distribution Platform](https://github.com/Er-Arif/software-distribution-platform) | Software sales, licensing, signed updates, payments, device activation, admin operations, and background jobs | Next.js, FastAPI, PostgreSQL, Redis, Celery, MinIO |
+| [Auth Service](https://github.com/Er-Arif/otp-auth-service) | Reusable multi-application OTP authentication with hashed refresh tokens, delivery adapters, tests, CI, and audit logging | Node.js, Express, Prisma, PostgreSQL, Zod, Docker |
+| [OnePass Password Manager](https://github.com/Er-Arif/onepass-password-manager) | Local-first encrypted vault and browser-extension workflows using client-side cryptography | Next.js, TypeScript, Web Crypto, Manifest V3 |
+| [Restaurant POS](https://github.com/Er-Arif/offline-restaurant-pos) | Windows-first offline POS with roles, licensing, receipts, backup/restore, and packaging | Python, PySide6, SQLite, SQLAlchemy, PyInstaller |
+| [Ride Booking Platform](https://github.com/Er-Arif/ride-booking-platform) | Hyperlocal customer, driver, admin, dispatch, fare, and operations workflows | TypeScript, Node.js, Next.js, Flutter, PostgreSQL, Socket.IO |
 
 ## Technical Stack
 
