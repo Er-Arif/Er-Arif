@@ -2,7 +2,7 @@
 
 Backend / full-stack engineer building secure web platforms, production-oriented backend systems, offline-first applications, and practical AI-enabled products.
 
-- 🎓 Studied Computer Science and Engineering at Chandigarh University (2020–2024)
+- 🎓 Computer Science & Engineering coursework at Chandigarh University (four semesters completed; degree not awarded)
 - 💻 Focused on backend, full-stack, and applied AI product engineering
 - 🌍 Open to remote opportunities and relocation across India
 - ⚡ Available to join immediately
@@ -19,6 +19,19 @@ Backend / full-stack engineer building secure web platforms, production-oriented
 | [Auth Service](https://github.com/Er-Arif/otp-auth-service) | Reusable multi-application OTP authentication with hashed refresh tokens, delivery adapters, tests, CI, audit logging, and health checks | Node.js, Express, Prisma, PostgreSQL, Zod, Docker |
 | [OnePass Password Manager](https://github.com/Er-Arif/onepass-password-manager) | Local-first encrypted vault and browser-extension workflows using client-side cryptography | Next.js, TypeScript, Web Crypto, Manifest V3 |
 | [Restaurant POS](https://github.com/Er-Arif/offline-restaurant-pos) | Windows-first offline POS with roles, licensing, receipts, backup/restore, and packaging | Python, PySide6, SQLite, SQLAlchemy, PyInstaller |
+
+## Machine Learning & Computer Vision Experiments
+
+| Project | Focus | Evidence |
+|---|---|---|
+| [NanoGPT Training Lab](https://github.com/Er-Arif/nanoGPT_V2) | Adapted open-source GPT-style transformer training, tokenization, checkpointing and local text generation | [Source and attribution](https://github.com/Er-Arif/nanoGPT_V2/blob/main/README.md) |
+| [ML Experiments: CIFAR-10 & LSTM](https://github.com/Er-Arif/pythonProject2) | CNN/classical classifier comparisons and stock time-series modeling | [Recovered 2023 LSTM notebook](https://github.com/Er-Arif/pythonProject2/blob/main/notebooks/stock_lstm_original_2023.ipynb) |
+| [OpenCV Watershed Segmentation](https://github.com/Er-Arif/pythonProject) | Otsu thresholding, morphology, distance transforms, watershed boundaries | [Runnable CLI and tests](https://github.com/Er-Arif/pythonProject) |
+| [OpenCV ORB & Panorama Stitching](https://github.com/Er-Arif/pythonProject1) | Keypoint matching, image stitching and match visualization | [Runnable CLI and tests](https://github.com/Er-Arif/pythonProject1) |
+
+Additional Python experiments: [Miller–Rabin primes](https://github.com/Er-Arif/pythonProject3) · [Tkinter video downloader](https://github.com/Er-Arif/pythonProject4).
+
+*Historical ML notebooks are published as learning artifacts. They are not evidence of production deployment or validated financial forecasting performance.*
 
 ## Technical Stack
 
