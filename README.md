@@ -24,12 +24,13 @@ Backend / full-stack engineer building secure web platforms, production-oriented
 
 | Project | Focus | Evidence |
 |---|---|---|
-| [NanoGPT Training Lab](https://github.com/Er-Arif/nanoGPT_V2) | Adapted open-source GPT-style transformer training, tokenization, checkpointing and local text generation | [Source and attribution](https://github.com/Er-Arif/nanoGPT_V2/blob/main/README.md) |
-| [ML Experiments: CIFAR-10 & LSTM](https://github.com/Er-Arif/pythonProject2) | CNN/classical classifier comparisons and stock time-series modeling | [Recovered 2023 LSTM notebook](https://github.com/Er-Arif/pythonProject2/blob/main/notebooks/stock_lstm_original_2023.ipynb) |
-| [OpenCV Watershed Segmentation](https://github.com/Er-Arif/pythonProject) | Otsu thresholding, morphology, distance transforms, watershed boundaries | [Runnable CLI and tests](https://github.com/Er-Arif/pythonProject) |
-| [OpenCV ORB & Panorama Stitching](https://github.com/Er-Arif/pythonProject1) | Keypoint matching, image stitching and match visualization | [Runnable CLI and tests](https://github.com/Er-Arif/pythonProject1) |
+| [NanoGPT Training Lab](https://github.com/Er-Arif/nanogpt-training-lab) | Adapted open-source GPT-style transformer training, tokenization, checkpointing and local text generation | [Source and attribution](https://github.com/Er-Arif/nanogpt-training-lab/blob/main/README.md) |
+| [LSTM Stock Forecasting](https://github.com/Er-Arif/lstm-stock-forecasting) | Recovered 2023 Keras experiment and a newer leakage-aware next-close training pipeline | [Source notebook and tests](https://github.com/Er-Arif/lstm-stock-forecasting) |
+| [ML Experiments: CIFAR-10 & LSTM](https://github.com/Er-Arif/machine-learning-experiments) | CNN/classical classifier comparisons and stock time-series modeling | [Recovered 2023 LSTM notebook](https://github.com/Er-Arif/machine-learning-experiments/blob/main/notebooks/stock_lstm_original_2023.ipynb) |
+| [OpenCV Watershed Segmentation](https://github.com/Er-Arif/opencv-watershed-segmentation) | Otsu thresholding, morphology, distance transforms, watershed boundaries | [Runnable CLI and tests](https://github.com/Er-Arif/opencv-watershed-segmentation) |
+| [OpenCV ORB & Panorama Stitching](https://github.com/Er-Arif/opencv-feature-matching) | Keypoint matching, image stitching and match visualization | [Runnable CLI and tests](https://github.com/Er-Arif/opencv-feature-matching) |
 
-Additional Python experiments: [Miller–Rabin primes](https://github.com/Er-Arif/pythonProject3) · [Tkinter video downloader](https://github.com/Er-Arif/pythonProject4).
+Additional Python experiments: [Miller–Rabin primes](https://github.com/Er-Arif/miller-rabin-prime-generator) · [Tkinter video downloader](https://github.com/Er-Arif/tkinter-video-downloader).
 
 *Historical ML notebooks are published as learning artifacts. They are not evidence of production deployment or validated financial forecasting performance.*
 
